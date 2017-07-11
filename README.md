@@ -1,6 +1,5 @@
-# resources
+# Resources
 Bootcamp Resources
-
 
 ## Project Ideas
 * lora - http://www.semtech.com/wireless-rf/internet-of-things/what-is-lora/ 
@@ -9,29 +8,13 @@ Bootcamp Resources
 * database viewer - mongodb data viewer
 * Code for Idaho - IDLeg.info
 
-## Trainings 
-* github
-* git
-* angular 4
-* digital ocean - devops
-* mongodb
-* resume
-* SQL
-* Java
-* design and OO
-* testing
-* dependency injection 
-* maven
-* security 
-* careers  
-
 ## Weekly Schedule 
-**Time**| **Activity**
------|-----
-1:00PM - 2:00PM|Training by Nilab
-2:00PM - 3:00PM|Code Code Code
-3:00PM - 4:00PM|Industry Talk/Training
-4:00PM - 5:00PM|Tech Interview Prep
+**Time**| **Activity** | **Duration (hour)**
+-----|-----| -----
+1:00PM - 1:30PM|Training by Nilab | 0.5
+1:30PM - 3:30PM|Code Code Code | 2.0
+3:30PM - 4:00PM|Industry Talk/Training | 0.5
+4:00PM - 5:00PM|Tech Interview Prep & Code Code Code | 1.0
 
 
 ## Bootcamp Calendar

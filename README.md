@@ -35,15 +35,15 @@ Bootcamp Resources
 
 
 ## Bootcamp Calendar
-**Date**| **Objective** | **Training** | **Talk** | **Interview Prep**
+**Date**| **Objective** | **Training by Nilab** | **Industry Speaker** | **Interview Prep**
 -----|-----|-----|-----|-----
-7/15/2017|Learn about Javascript and Angular. Commit spinup project to Github|Intro to Javascript and Angular by Nilab|Economic case for current development skills by Brian Sevy (Ambient Sensors)|Resume workshop
-7/22/2017| | | | 
-7/29/2017| | |My experience of working for Google by Axel Magnuson (Google)| 
-8/5/2017| | | | 
-8/12/2017| | | | 
-8/19/2017| | | | 
-8/26/2017| | | | 
-9/2/2017| | | | 
-9/9/2017| | | | 
-**9/16/2017**| | | | 
+7/15/2017|Learn about Javascript and Angular. Commit spinup project to Github|Intro to Javascript and Angular |Economic case for current development skills by Brian Sevy (Ambient Sensors)|Resume workshop
+7/22/2017| |Intro to Angular Material | | 
+7/29/2017| |Intro to MongoDB |My experience of working for Google by Axel Magnuson (Google)| 
+8/5/2017| |Hosting Your Project/Website | | 
+8/12/2017| |Event Binding & Directives | | 
+8/19/2017| |Forms & Validation | | 
+8/26/2017| |Http & Observales | | 
+9/2/2017| |Dependency Injection & Services | | 
+9/9/2017| |Angular 4 Animations | | 
+**9/16/2017**| |Careers | | 

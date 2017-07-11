@@ -18,7 +18,7 @@ Bootcamp Resources
 
 
 ## Bootcamp Calendar
-**Meeting #**|**Date**| **Objective** | **Training by Nilab** | **Industry Speaker** | **Interview Prep**
+**#**|**Date**| **Objective** | **Training by Nilab** | **Industry Speaker** | **Interview Prep**
 -----|-----|-----|-----|-----|-----
 1 | 7/15/2017|Learn about Javascript and Angular. Commit spinup project to Github|Intro to Javascript and Angular |Economic case for current development skills by Brian Sevy (Ambient Sensors)|Resume workshop
 2 | 7/16/2017| |Intro to Angular Material | | 

@@ -23,7 +23,7 @@ Bootcamp Resources
 1 | 7/15/2017|Learn about Javascript and Angular. Commit spinup project to Github|Intro to Javascript and Angular |Economic case for current development skills by Brian Sevy (Ambient Sensors)|Resume workshop
 2 | 7/16/2017| |Intro to Angular Material | | 
 3 | 7/22/2017| |Intro to MongoDB |My experience of working for Google by Axel Magnuson (Google)| 
-4 | 7/23/2017| |Hosting Your Project/Website | | 
+4 | 7/23/2017| |Hosting Your Project/Website | Intro to DevOps by Thomas George (Clearwater) | 
 5 | 7/29/2017| |Event Binding & Directives | | 
 6 | 7/30/2017| |Forms & Validation | | 
 7 | 8/5/2017| |Http & Observales | | 

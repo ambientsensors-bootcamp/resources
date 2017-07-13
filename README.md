@@ -1,11 +1,15 @@
 # Resources
 Bootcamp Resources
 
-## Project Ideas
-* lora - http://www.semtech.com/wireless-rf/internet-of-things/what-is-lora/ 
-* library app - intersectional bookshelf   
-** interact with an external API of books (key=ISBN)
-* Code for Idaho - IDLeg.info
+## Projects
+* IDLeg - https://github.com/ambientsensors-bootcamp/idleg  
+  * Interactive portal to Idaho Legislature  
+  * Provides some basic statistics on legislative actions
+* Intersectional Bookshelf - https://github.com/ambientsensors-bootcamp/intersectional-bookshelf 
+    * Provide a searchable book library with diverse representation
+* LoRa-ui - https://github.com/ambientsensors-bootcamp/lora-ui 
+    * Provide user interface (ui) for LoRa - long range, low power wireless platform given data-set
+
 
 ## Weekly Schedule 
 **Time**| **Activity** | **Duration (hour)**

@@ -1,3 +1,8 @@
+# Ambient Sensors Bootcamp
+
+## About 
+Please see [./about.md](https://github.com/ambientsensors-bootcamp/resources/blob/master/about.md)  
+
 ## Bootcamp Calendar
 **#**|**Date**| **Objective** | **Training by Nilab** | **Industry Speaker** | **Interview Prep**
 -----|-----|-----|-----|-----|-----

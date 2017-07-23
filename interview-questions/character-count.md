@@ -7,7 +7,15 @@ Output: Count of Character in String
 
 Startup Code: 
 ```
-function (var string, var character){
+function charCount(var string, var character){
 //TODO implement this function 
 }
+```
+
+
+```
+var count = charCount("bookshelf", "o");
+console.log(count);
+
+// 2
 ```

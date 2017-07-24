@@ -3,7 +3,7 @@
 ## About 
 Ambient Sensors Bootcamp is an unpaid software engineering internship opportunity for future, current, and former students in computer science.  
 
-The program has been designed and created by [Nilab Mousa](https://www.linkedin.com/in/nilabmm/) with the goal of providing indutsry expereince to computer science students, especially to female students, and helping them transition to indutry jobs. In addition to working on interesting projects, bootcamp participants get a chance to interact with engineers from other software companies during the "Industry Speaker" sessions. Practicing technical interviews is another important part of the experience at the bootcamp.   
+The program has been designed and created by [Nilab Mousa](https://www.linkedin.com/in/nilabmm/) with the goal of providing industry experience to computer science students, especially to female students, and helping them transition to industry jobs. In addition to working on interesting projects, bootcamp participants get a chance to interact with engineers from other software companies during the "Industry Speaker" sessions. Practicing technical interviews is another important part of the experience at the bootcamp.   
   
 [Ambient Sensors](http://www.ambientsensors.com/) oversees the projects and offer their expertise and talent of their full-time engineers and HR department. [Robert Davidson](https://www.linkedin.com/in/robertdavidson/) and his team has generously provided their office and conference room to be used for the bootcamp on weekends.
 
@@ -40,15 +40,13 @@ For more information please check the [bootcamp calendar](https://github.com/amb
 Suadad Jasim|idleg
 Megan Pierce|idleg
 Moteeb Nain|idleg
-Sofia Echegaray|idleg
 Nathaniel Hoffman|idleg
 Olivia Johnson|idleg
-Raghad Al-Fatal|lora-ui
+Raghad Al-Fatal|idleg
 Sherry AlNajjar|lora-ui
-Madia Mohammad Mousa|lora-ui
-Ramin Jan|lora-ui
-Zahra Zahir|lora-ui
+Madia Mousa|lora-ui
+Ramin Jan|own-web
+Zahra Zahir|bookshelf
 Sarah King|bookshelf
 Hasan Al-Rubia|bookshelf
-Laura Johnston| bookshelf
 

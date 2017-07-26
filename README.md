@@ -19,7 +19,7 @@ Please see [./about.md](https://github.com/ambientsensors-bootcamp/resources/blo
 11| 8/19/2017| | | |   
 12 | 8/20/2017| | | |   
 13 | 8/26/2017| | | |   
-14 | 8/27/2017| | | |   
+14 | 8/27/2017| | |Machine Learning by Yasmin Sahaf (HP) |   
 15 | 9/2/2017| | | |   
 16 | 9/3/2017| | | |   
 17 | 9/9/2017| | | |   

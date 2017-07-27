@@ -12,10 +12,10 @@ Please see [./about.md](https://github.com/ambientsensors-bootcamp/resources/blo
 4 | 7/23/2017|Routing Part 2 | Add routing to your app | Intro to DevOps by Thomas George (Clearwater) | Find largest number in array
 5 | 7/29/2017|Learn how to deploy your app |Into to Heroku |Dependency Injection by Greg Daniels (Clearwater) | Find top two maximum numbers in array
 6 | 7/30/2017|Learn about Http Module |HttpModule  |TBD | 
-7 | 8/5/2017| Learn about Observables |Http & Observables | | 
-8 | 8/6/2017| | | | 
-9 | 8/12/2017| || | 
-10 | **8/13/2017**|Performance Evaluations | | | 
+7 | 8/5/2017|Learn about Http Services  |HttpModule | | 
+8 | 8/6/2017|Learn about Observables |Http & Observables | | 
+9 | 8/12/2017|Learn more about components |Component @Input| | 
+10 | **8/13/2017**|Performance Evaluations - Learn more about components |Component @Output |Interview Tips by John Clifford (Sr. Technical Recruiter at Clearwater Analytics) | 
 11| 8/19/2017| | | |   
 12 | 8/20/2017| | | |   
 13 | 8/26/2017| | | |   

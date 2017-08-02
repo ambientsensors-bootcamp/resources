@@ -15,7 +15,7 @@ Please see [./about.md](https://github.com/ambientsensors-bootcamp/resources/blo
 7 | 8/5/2017|Learn about Http Services  |HttpModule | | Print the average score given n scores for a student
 8 | 8/6/2017|Learn about Observables |Http & Observables | | Convert upper case to lower case
 9 | 8/12/2017|Learn more about components |Component @Input| | Print multiplication table
-10 | **8/13/2017**|Performance Evaluations - Learn more about components |Component @Output || Check whether an element occurs in a list
+10 | **8/13/2017**|Performance Evaluations - Learn more about components |Component @Output |React and Redux by Steve Smith (Freelance Software Developer)| Check whether an element occurs in a list
 11| 8/19/2017|Learn about databases |Into to MongoDB | | Find top two maximum numbers in array   
 12 | 8/20/2017|Learn about MongoDB |MongoDB Part 2 |Interview Tips by John Clifford (Sr. Technical Recruiter at Clearwater Analytics) | Find largest number in array   
 13 | 8/26/2017|Learn about servers |Intro to Role of servers| | String is a palindrome   

@@ -23,7 +23,7 @@ Please see [./about.md](https://github.com/ambientsensors-bootcamp/resources/blo
 15 | 9/2/2017|Learn about API|Intro to APIs | | Merge two sorted lists into a new sorted list   
 16 | 9/3/2017|Design your API |API part 2 | | Find sum of numbers in a list   
 17 | 9/9/2017|Learn about npm libraries |Intro to lodash library | | Reverse a sentence   
-18 | 9/10/2017|Learn about npm libraries |Intro to ngx-datatables library | | Is palindrome (String and Int) 
+18 | 9/10/2017|Learn about npm libraries |Intro to ngx-datatables library | Go Language & Finding Success in Your 1st Year by Leon Rubalcava (Kount) | Is palindrome (String and Int) 
 19 | **9/16/2017**|Last Day |Code Refactor/Questions | | Is anagram (String and Int)  
 
 

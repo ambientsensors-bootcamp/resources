@@ -16,12 +16,12 @@ Please see [./about.md](https://github.com/ambientsensors-bootcamp/resources/blo
 8 | 8/6/2017|Learn about Express |Express | | Convert upper case to lower case
 9 | 8/12/2017|Learn how to deploy your app |Into to Heroku|Faisal Shah (AppDetex) | Print multiplication table
 10 | **8/13/2017**|Performance Evaluations - Learn more about components |Component @Input @Output |React and Redux by Steve Smith (Freelance Software Developer)| Check whether an element occurs in a list
-11| 8/19/2017|Learn about databases |Into to MongoDB | | Find top two maximum numbers in array   
-12 | 8/20/2017|Learn about MongoDB |MongoDB Part 2 |Interview Tips by John Clifford (Sr. Technical Recruiter at Clearwater Analytics) | Find largest number in array   
-13 | 8/26/2017|Learn about servers |Intro to Role of servers| | String is a palindrome   
-14 | 8/27/2017|Learn about Express |Intro to Express |Machine Learning by Yasmin Sahaf (HP) | Concatenates two lists  
-15 | 9/2/2017|Learn about API|Intro to APIs | Information Security by Clay Barks (Micron Technology) | Merge two sorted lists into a new sorted list   
-16 | 9/3/2017|Design your API |API part 2 | | Find sum of numbers in a list   
+11| 8/19/2017|Learn about API |Intro to APIs | | Find top two maximum numbers in array   
+12 | 8/20/2017|Design your API |APIs Part 2 |Interview Tips by John Clifford (Sr. Technical Recruiter at Clearwater Analytics) | Find largest number in array   
+13 | 8/26/2017|Teamwork |Work on your projects|RxJs by Gabriel Pearhill (Clearwater Analytics) | String is a palindrome   
+14 | 8/27/2017|Teamwork |Work on your projects |Machine Learning by Yasmin Sahaf (HP) | Concatenates two lists  
+15 | 9/2/2017|Teamwork|Work on your projects | Information Security by Clay Barks (Micron Technology) | Merge two sorted lists into a new sorted list   
+16 | 9/3/2017|Teamwork |Work on your projects| | Find sum of numbers in a list   
 17 | 9/9/2017|Learn about npm libraries |Intro to lodash library |Working from Home with a Global Workforce by Armalene Matson (IBM)| Reverse a sentence   
 18 | 9/10/2017|Learn about npm libraries |Intro to ngx-datatables library | Go Language & Finding Success in Your 1st Year by Leon Rubalcava (Kount) | Is palindrome (String and Int) 
 19 | **9/16/2017**|Last Day |Code Refactor/Questions |Linux Magic by Sandra Capri (Ambient Sensors) | Is anagram (String and Int)  

@@ -21,7 +21,7 @@ Please see [./about.md](https://github.com/ambientsensors-bootcamp/resources/blo
 13 | 8/26/2017|Teamwork |Work on your projects|RxJs by Gabriel Pearhill (Clearwater Analytics) | String is a palindrome   
 14 | 8/27/2017|Teamwork |Work on your projects |Machine Learning by Yasmin Sahaf (HP) | Concatenates two lists  
 15 | 9/2/2017|Teamwork|Work on your projects | Information Security by Clay Barks (Micron Technology) | Merge two sorted lists into a new sorted list   
-16 | 9/3/2017|Teamwork |Work on your projects| | Find sum of numbers in a list   
+16 | 9/3/2017|Teamwork |Work on your projects|Learning Git in Reverse by Kenny Ballou (HomeCU) | Find sum of numbers in a list   
 17 | 9/9/2017|Learn about npm libraries |Intro to lodash library |Working from Home with a Global Workforce by Armalene Matson (IBM)| Reverse a sentence   
 18 | 9/10/2017|Learn about npm libraries |Intro to ngx-datatables library | Go Language & Finding Success in Your 1st Year by Leon Rubalcava (Kount) | Is palindrome (String and Int) 
 19 | **9/16/2017**|Last Day |Code Refactor/Questions |Linux Magic by Sandra Capri (Ambient Sensors) | Is anagram (String and Int)  

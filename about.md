@@ -45,9 +45,11 @@ Olivia Johnson|idleg
 Raghad Al-Fatal|idleg
 Sherry AlNajjar|lora-ui
 Madia Mousa|lora-ui
+Marina Autina| lora-ui
 Ramin Jan|own-web
 Zahra Zahir|bookshelf
 Sarah King|bookshelf
 Hasan Al-Rubia|bookshelf
-Marina Autina| lora-ui
+Henry Johnson|bookshelf
+
 

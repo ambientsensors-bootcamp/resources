@@ -31,6 +31,6 @@ Please see [./about.md](https://github.com/ambientsensors-bootcamp/resources/blo
 **Time**| **Activity** | **Duration (hour)**
 -----|-----| -----
 1:00PM - 1:30PM|Training by Nilab | 0.5
-1:30PM - 3:30PM|Code Code Code | 2.0
+1:30PM - 3:30PM|Work on projects with teammates| 2.0
 3:30PM - 4:30PM|Industry Talk/Training | 1.0
 4:00PM - 5:00PM|Tech Interview Prep| 0.5
